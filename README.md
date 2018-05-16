@@ -1,4 +1,4 @@
-# latinchat
+# limajschat
 
 > Latinchat made with vue.js
 
